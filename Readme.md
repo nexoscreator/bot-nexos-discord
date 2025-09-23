@@ -45,7 +45,7 @@ Follow these steps to set up the bot on your local machine:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/nexoscreation/bot-discord-template.git
+git clone https://github.com/nexoslabs/bot-discord-template.git
 ```
 
 2. Install dependencies:
@@ -172,9 +172,13 @@ Special thanks to:
 ## 📬 Contact & Community
 
 💬 Join us on **Discord**: [Click Here](https://discord.gg/H7pVc9aUK2)  
-🐦 **Follow on Twitter**: [@nexoscreation](https://twitter.com/nexoscreator)  
+🐦 **Follow on Twitter**: [@nexoslabs](https://twitter.com/nexoslabs)  
 📧 **Email**: [contact@nexoscreation.tech](mailto:contact@nexoscreation.tech)
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/nexoscreation">@nexoscreation</a>
+  Made with ❤️ by the <a href="https://github.com/nexoslabs">@nexoslabs</a> Team
+</p>
+
+<p align="center">
+  <a href="https://github.com/nexoslabs/bot-discord-template/stargazers">⭐ Star us on GitHub!</a>
 </p>
